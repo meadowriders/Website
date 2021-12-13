@@ -1,5 +1,5 @@
 # Meadow Riders Website
-The website for Meadow Riders
+The website for Meadow Riders: https://meadowriders.com/
 ## Fork
 This uses the **Solid** HTML5 Template for the front-end, all back-end scripts are custom made and will therefore not be listed.
 
